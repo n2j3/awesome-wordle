@@ -87,6 +87,8 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 
 [Lewdle](https://www.lewdlegame.com/) - Wordle with Bad words.
 
+[Lexli](https://lexli.gr/) - Wordle in Greek.
+
 [Mathler](https://www.mathler.com/) - Wordle but you have to guess Math equations.
 
 [Moviedle](https://moviedle.xyz/) -Wordle but you have to guess Movies
@@ -150,6 +152,8 @@ Hi, I'm the creator of [Diffudle](https://diffudle.com). I'm curating a list of 
 [TriviaV](https://triviav.com/) - Wordle but you have to answer 5 questions.
 
 [Tradle](https://oec.world/en/tradle/) - Guess which US State exports these products! 
+
+[Turdle](https://turdle.xyz/) -  a cute Wordle clone by Sushi Squared Games about guessing the correct sequence of animated frames to make a turtle jump!
 
 [Tusmo](https://www.tusmo.xyz/) - idk i dont speak bonjour.
 
